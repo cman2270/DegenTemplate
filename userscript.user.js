@@ -1,4 +1,4 @@
-// ==UserScript==
+// ==UserScript== 
 // @name         Degen Template
 // @namespace    http://tampermonkey.net/
 // @version      0.2
