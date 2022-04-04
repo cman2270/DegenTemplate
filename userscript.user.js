@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Degen Template
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the canvas!
 // @author       oralekin, LittleEndu, ekgame, Wieku, DeadRote, cman2270
 // @match        https://hot-potato.reddit.com/embed*
