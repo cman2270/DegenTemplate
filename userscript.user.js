@@ -13,7 +13,7 @@ if (window.top !== window.self) {
         // Load the image
         const image = document.createElement("img");
         const undotted = "https://cdn.discordapp.com/attachments/939592132556124230/960307248633094184/dotted-place-template.1-1.png";
-        image.src = "https://cdn.discordapp.com/attachments/918045416287764540/960342356262019152/dotted-place-template.png";
+        image.src = "https://cdn.discordapp.com/attachments/918045416287764540/960353286953795665/unknown.png";
 
         image.onload = () => {
              image.style = `position: absolute; left: 0; top: 0; width: ${image.width/3}px; height: ${image.height/3}px; image-rendering: pixelated; z-index: 1`;
